@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my home lab and my own mobile app**
 
-- 🌱 I’m currently learning **my Secuirity+ and AZ-500**
+- 🌱 I’m currently learning **my Secuirity+ and AC-500**
 
 - 💬 Ask me about **Network and Cloud Security**
 
