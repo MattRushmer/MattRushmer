@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattrushmer&label=Profile%20views&color=0e75b6&style=flat" alt="mattrushmer" /> </p>
 
-- 🔭 I’m currently working on **my home lab and my own mobile app**
+- 🔭 I’m currently working on **my home lab and my own AI secuirty toolkit**
 
 - 🌱 I’m currently learning **my Secuirity+ and AC-500**
 
